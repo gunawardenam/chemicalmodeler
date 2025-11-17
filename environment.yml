@@ -1,0 +1,10 @@
+name: chemicalmodeler
+channels:
+  - conda-forge
+dependencies:
+  - rdkit 
+  - numpy
+  - pandas
+  - sklearn
+  - matplotlib
+
